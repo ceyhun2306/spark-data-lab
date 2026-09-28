@@ -1,0 +1,45 @@
+{"trn_id": "T0001", "items": [{"product_name": "Cheese", "qty": 1, "unit_price": 5.5}, {"product_name": "Charger", "qty": 3, "unit_price": 12.5}, {"product_name": "Bread", "qty": 1, "unit_price": 1.2}]}
+{"trn_id": "T0002", "items": [{"product_name": "Snack Bar", "qty": 1, "unit_price": 1.5}, {"product_name": "Bread", "qty": 1, "unit_price": 1.2}, {"product_name": "Water", "qty": 1, "unit_price": 0.9}]}
+{"trn_id": "T0003", "items": [{"product_name": "Charger", "qty": 3, "unit_price": 12.5}, {"product_name": "Milk", "qty": 2, "unit_price": 2.1}, {"product_name": "Coffee", "qty": 1, "unit_price": 8.9}, {"product_name": "Detergent", "qty": 3, "unit_price": 6.4}]}
+{"trn_id": "T0004", "items": [{"product_name": "Coffee", "qty": 3, "unit_price": 8.9}]}
+{"trn_id": "T0005", "items": [{"product_name": "Snack Bar", "qty": 3, "unit_price": 1.5}]}
+{"trn_id": "T0006", "items": [{"product_name": "Bread", "qty": 1, "unit_price": 1.2}, {"product_name": "Coffee", "qty": 2, "unit_price": 8.9}, {"product_name": "Shampoo", "qty": 2, "unit_price": 4.7}, {"product_name": "Water", "qty": 1, "unit_price": 0.9}]}
+{"trn_id": "T0007", "items": [{"product_name": "Snack Bar", "qty": 2, "unit_price": 1.5}]}
+{"trn_id": "T0008", "items": [{"product_name": "Milk", "qty": 3, "unit_price": 2.1}, {"product_name": "Snack Bar", "qty": 3, "unit_price": 1.5}]}
+{"trn_id": "T0009", "items": [{"product_name": "Pen", "qty": 3, "unit_price": 0.8}, {"product_name": "Milk", "qty": 3, "unit_price": 2.1}]}
+{"trn_id": "T0010", "items": [{"product_name": "Snack Bar", "qty": 1, "unit_price": 1.5}]}
+{"trn_id": "T0011", "items": [{"product_name": "Headphones", "qty": 3, "unit_price": 25.0}, {"product_name": "Detergent", "qty": 2, "unit_price": 6.4}]}
+{"trn_id": "T0012", "items": [{"product_name": "Headphones", "qty": 2, "unit_price": 25.0}, {"product_name": "Snack Bar", "qty": 2, "unit_price": 1.5}, {"product_name": "Shampoo", "qty": 1, "unit_price": 4.7}]}
+{"trn_id": "T0013", "items": [{"product_name": "Shampoo", "qty": 1, "unit_price": 4.7}, {"product_name": "Coffee", "qty": 3, "unit_price": 8.9}]}
+{"trn_id": "T0014", "items": [{"product_name": "Water", "qty": 3, "unit_price": 0.9}, {"product_name": "Headphones", "qty": 2, "unit_price": 25.0}, {"product_name": "Pen", "qty": 2, "unit_price": 0.8}]}
+{"trn_id": "T0015", "items": [{"product_name": "Milk", "qty": 3, "unit_price": 2.1}]}
+{"trn_id": "T0016", "items": [{"product_name": "Cheese", "qty": 2, "unit_price": 5.5}, {"product_name": "Pen", "qty": 1, "unit_price": 0.8}, {"product_name": "Shampoo", "qty": 3, "unit_price": 4.7}, {"product_name": "Headphones", "qty": 1, "unit_price": 25.0}]}
+{"trn_id": "T0017", "items": [{"product_name": "Pen", "qty": 2, "unit_price": 0.8}, {"product_name": "Shampoo", "qty": 3, "unit_price": 4.7}, {"product_name": "Snack Bar", "qty": 2, "unit_price": 1.5}]}
+{"trn_id": "T0018", "items": [{"product_name": "Milk", "qty": 2, "unit_price": 2.1}]}
+{"trn_id": "T0019", "items": [{"product_name": "Shampoo", "qty": 3, "unit_price": 4.7}, {"product_name": "Detergent", "qty": 3, "unit_price": 6.4}, {"product_name": "Milk", "qty": 2, "unit_price": 2.1}, {"product_name": "Bread", "qty": 3, "unit_price": 1.2}]}
+{"trn_id": "T0020", "items": [{"product_name": "Notebook", "qty": 2, "unit_price": 3.3}, {"product_name": "Charger", "qty": 2, "unit_price": 12.5}, {"product_name": "Pen", "qty": 1, "unit_price": 0.8}, {"product_name": "Bread", "qty": 3, "unit_price": 1.2}]}
+{"trn_id": "T0021", "items": [{"product_name": "Headphones", "qty": 1, "unit_price": 25.0}]}
+{"trn_id": "T0022", "items": [{"product_name": "Notebook", "qty": 3, "unit_price": 3.3}, {"product_name": "Cheese", "qty": 1, "unit_price": 5.5}]}
+{"trn_id": "T0023", "items": [{"product_name": "Charger", "qty": 2, "unit_price": 12.5}, {"product_name": "Headphones", "qty": 2, "unit_price": 25.0}, {"product_name": "Milk", "qty": 3, "unit_price": 2.1}, {"product_name": "Cheese", "qty": 2, "unit_price": 5.5}]}
+{"trn_id": "T0024", "items": [{"product_name": "Charger", "qty": 2, "unit_price": 12.5}, {"product_name": "Water", "qty": 3, "unit_price": 0.9}]}
+{"trn_id": "T0025", "items": [{"product_name": "Pen", "qty": 1, "unit_price": 0.8}, {"product_name": "Detergent", "qty": 1, "unit_price": 6.4}, {"product_name": "Charger", "qty": 1, "unit_price": 12.5}, {"product_name": "Coffee", "qty": 1, "unit_price": 8.9}]}
+{"trn_id": "T0026", "items": [{"product_name": "Detergent", "qty": 1, "unit_price": 6.4}, {"product_name": "Coffee", "qty": 2, "unit_price": 8.9}]}
+{"trn_id": "T0027", "items": [{"product_name": "Notebook", "qty": 1, "unit_price": 3.3}, {"product_name": "Shampoo", "qty": 1, "unit_price": 4.7}]}
+{"trn_id": "T0028", "items": [{"product_name": "Water", "qty": 1, "unit_price": 0.9}, {"product_name": "Pen", "qty": 3, "unit_price": 0.8}, {"product_name": "Snack Bar", "qty": 3, "unit_price": 1.5}, {"product_name": "Detergent", "qty": 3, "unit_price": 6.4}]}
+{"trn_id": "T0029", "items": [{"product_name": "Headphones", "qty": 3, "unit_price": 25.0}]}
+{"trn_id": "T0030", "items": [{"product_name": "Charger", "qty": 2, "unit_price": 12.5}, {"product_name": "Shampoo", "qty": 3, "unit_price": 4.7}, {"product_name": "Detergent", "qty": 2, "unit_price": 6.4}, {"product_name": "Milk", "qty": 1, "unit_price": 2.1}]}
+{"trn_id": "T0031", "items": [{"product_name": "Milk", "qty": 2, "unit_price": 2.1}, {"product_name": "Coffee", "qty": 1, "unit_price": 8.9}]}
+{"trn_id": "T0032", "items": [{"product_name": "Pen", "qty": 3, "unit_price": 0.8}]}
+{"trn_id": "T0033", "items": [{"product_name": "Milk", "qty": 1, "unit_price": 2.1}]}
+{"trn_id": "T0034", "items": [{"product_name": "Water", "qty": 2, "unit_price": 0.9}, {"product_name": "Milk", "qty": 3, "unit_price": 2.1}]}
+{"trn_id": "T0035", "items": [{"product_name": "Milk", "qty": 1, "unit_price": 2.1}]}
+{"trn_id": "T0036", "items": [{"product_name": "Cheese", "qty": 3, "unit_price": 5.5}, {"product_name": "Detergent", "qty": 2, "unit_price": 6.4}, {"product_name": "Notebook", "qty": 2, "unit_price": 3.3}, {"product_name": "Pen", "qty": 1, "unit_price": 0.8}]}
+{"trn_id": "T0037", "items": [{"product_name": "Headphones", "qty": 2, "unit_price": 25.0}]}
+{"trn_id": "T0038", "items": [{"product_name": "Headphones", "qty": 1, "unit_price": 25.0}, {"product_name": "Notebook", "qty": 3, "unit_price": 3.3}, {"product_name": "Milk", "qty": 2, "unit_price": 2.1}, {"product_name": "Cheese", "qty": 3, "unit_price": 5.5}]}
+{"trn_id": "T0039", "items": [{"product_name": "Headphones", "qty": 1, "unit_price": 25.0}, {"product_name": "Cheese", "qty": 1, "unit_price": 5.5}, {"product_name": "Water", "qty": 3, "unit_price": 0.9}]}
+{"trn_id": "T0040", "items": [{"product_name": "Cheese", "qty": 3, "unit_price": 5.5}, {"product_name": "Water", "qty": 2, "unit_price": 0.9}, {"product_name": "Bread", "qty": 3, "unit_price": 1.2}]}
+{"trn_id": "T0041", "items": [{"product_name": "Shampoo", "qty": 2, "unit_price": 4.7}]}
+{"trn_id": "T0042", "items": [{"product_name": "Cheese", "qty": 3, "unit_price": 5.5}, {"product_name": "Pen", "qty": 3, "unit_price": 0.8}, {"product_name": "Coffee", "qty": 3, "unit_price": 8.9}]}
+{"trn_id": "T0043", "items": [{"product_name": "Detergent", "qty": 1, "unit_price": 6.4}, {"product_name": "Coffee", "qty": 1, "unit_price": 8.9}, {"product_name": "Snack Bar", "qty": 2, "unit_price": 1.5}]}
+{"trn_id": "T0044", "items": [{"product_name": "Coffee", "qty": 2, "unit_price": 8.9}, {"product_name": "Water", "qty": 2, "unit_price": 0.9}]}
+{"trn_id": "T0045", "items": [{"product_name": "Bread", "qty": 2, "unit_price": 1.2}]}
